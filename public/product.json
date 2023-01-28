@@ -1,0 +1,142 @@
+[
+  {
+    "_id": 1,
+    "title": "Pro 6 Earbuds",
+    "image": "https://ae01.alicdn.com/kf/Sbd2cdf621e8c42ac81b354948df122acK.jpg_350x350.jpg_480x480Q90.webp",
+    "price": 386.26,
+    "offer": 41
+  },
+  {
+    "_id": 2,
+    "title": "Radeon Rx580 8 Gb",
+    "image": "https://ae01.alicdn.com/kf/Sea9776c896f54cb082391caf1c2bd9efg.jpg_350x350.jpg_480x480Q90.webp",
+    "price": 8873.51,
+    "offer": 0
+  },
+  {
+    "_id": 3,
+    "title": "Metal shell 7",
+    "image": "https://ae01.alicdn.com/kf/Sb7bd3df08d394eb5803bb1d3787e99b1J.jpg_350x350.jpg_480x480Q90.webp",
+    "price": 4394.83,
+    "offer": 35
+  },
+  {
+    "_id": 4,
+    "title": "hp Laptop",
+    "image": "https://ae01.alicdn.com/kf/H750a0c65fd424987ad8cd71a4a71a306b.jpg_220x220.webp_480x480Q90.webp",
+    "price": 19901.0,
+    "offer": 0
+  },
+  {
+    "_id": 5,
+    "title": "Rx 580 8G",
+    "image": "https://ae01.alicdn.com/kf/S7c7eb0cdf77144d59dfa7785edcd044dO.jpg_350x350.jpg_480x480Q90.webp",
+    "price": 5637.29,
+    "offer": 50
+  },
+  {
+    "_id": 6,
+    "title": "x8 headset smart watch",
+    "image": "https://ae01.alicdn.com/kf/A81197d5e149f4d57a70484be8347b8cdZ.jpg_350x350.jpg_480x480Q90.webp",
+    "price": 3003.78,
+    "offer": 25
+  },
+  {
+    "_id": 7,
+    "title": "Cuffie popolari V9 PUBG ",
+    "image": "https://ae04.alicdn.com/kf/Sf2e65135a4624353aba293a362e35ef9t.jpg_220x220.jpg_Q90.jpg_.webp",
+    "price": 315.27,
+    "offer": 57
+  },
+  {
+    "_id": 8,
+    "title": "2023 New LIGE Men's Watches",
+    "image": "https://ae04.alicdn.com/kf/S332e32b2a31045dc854d066c7e20c0cfh.jpg_220x220.jpg_Q90.jpg_.webp",
+    "price": 8868.29,
+    "offer": 0
+  },
+  {
+    "_id": 9,
+    "title": "Mini Electric Shaver Men Automatic Razor Portable Beard Shaver",
+    "image": "https://ae04.alicdn.com/kf/S09689a6ad2cc4cbaaee379dca3793c857.jpg_220x220.jpg_Q90.jpg_.webp",
+    "price": 611.75,
+    "offer": 0
+  },
+  {
+    "_id": 10,
+    "title": "Li Magnesium S1 E-Sports Luminous Wired Mouse",
+    "image": "https://ae04.alicdn.com/kf/S34ffb65e8fc54ca2b2d03c7bc355a597O.jpg_220x220.jpg_Q90.jpg_.webp",
+    "price": 279.78,
+    "offer": 57
+  },
+  {
+    "_id": 11,
+    "title": "Apple Pencil",
+    "image": "https://ae04.alicdn.com/kf/Afa94a64c9f4e4643bcdb6a4a80e3caeb0.jpg_300x300.jpg_Q90.jpg_.webp",
+    "price": 1668.22,
+    "offer": 0
+  },
+  {
+    "_id": 12,
+    "title": "NAVIFORCE Fashion Watches For Men",
+    "image": "https://ae04.alicdn.com/kf/H4f71d190e10e48c1b1eb3834b972f9b9x.jpg_300x300.jpg_Q90.jpg_.webp",
+    "price": 2086.84,
+    "offer": 60
+  },
+  {
+    "_id": 13,
+    "title": "15.6 inch 4K OLED Touch Screen Portable Monitor",
+    "image": "https://ae04.alicdn.com/kf/S41b5499577764992a0801a0360679a0fE.jpg_300x300.jpg_Q90.jpg_.webp",
+    "price": 33337.24,
+    "offer": 0
+  },
+  {
+    "_id": 14,
+    "title": "SMAEL Top Luxury Watches Men Dual Display Watch Men's Sports",
+    "image": "https://ae04.alicdn.com/kf/S82804fe28d8c439fba5c5c5e4993d3f3V.jpg_300x300.jpg_Q90.jpg_.webp",
+    "price": 279.78,
+    "offer": 57
+  },
+  {
+    "_id": 15,
+    "title": "CRIXALIS Reading Glasses Anti Blue Light for Women Men ",
+    "image": "https://ae04.alicdn.com/kf/S3557e71ecac84bfe8a64e6dfb92bdd89N.jpg_300x300.jpg_Q90.jpg_.webp",
+    "price": 279.78,
+    "offer": 57
+  },
+  {
+    "_id": 16,
+    "title": "LED Mirror Table Clock Digital Alarm Clock",
+    "image": "https://ae04.alicdn.com/kf/S3557e71ecac84bfe8a64e6dfb92bdd89N.jpg_300x300.jpg_Q90.jpg_.webp",
+    "price": 279.78,
+    "offer": 57
+  },
+  {
+    "_id": 17,
+    "title": "LED Mirror Table Clock Digital Alarm Clock ",
+    "image": "https://ae04.alicdn.com/kf/S78b21381fce64872ad00611cd188bda5x.jpg_300x300.jpg_Q90.jpg_.webp",
+    "price": 651.42,
+    "offer": 0
+  },
+  {
+    "_id": 18,
+    "title": "Sata3 Ssd Hard Disk Drive ",
+    "image": "https://ae04.alicdn.com/kf/Haa90e5c86a1f4b16b2adafeec638bef1B.jpg_300x300.jpg_Q90.jpg_.webp",
+    "price": 1179.65,
+    "offer": 35
+  },
+  {
+    "_id": 19,
+    "title": "CRIXALIS Fashion Polarized Sunglasses For Men",
+    "image": "https://ae04.alicdn.com/kf/Sd6557744b2d343f6bfb3597eb8810203G.jpg_300x300.jpg_Q90.jpg_.webp",
+    "price": 1344.6,
+    "offer": 0
+  },
+  {
+    "_id": 20,
+    "title": "Y50 Bluetooth Headset ",
+    "image": "https://ae04.alicdn.com/kf/S475887ae799b4dbf87acc3719a3f4956e.jpg_220x220.jpg_Q90.jpg_.webp",
+    "price": 365.38,
+    "offer": 50
+  }
+]
